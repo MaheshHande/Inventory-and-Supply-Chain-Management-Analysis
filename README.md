@@ -1,27 +1,50 @@
-📦 Power BI Project: Inventory & Supply Chain Analysis | End-to-End Dashboard
-Managing inventory and ensuring an efficient supply chain are critical for business success. In this Power BI project, we dive deep into stock management, demand forecasting, supplier performance, and logistics optimization — building a fully interactive dashboard that mirrors real-world operations.
+📦 Inventory & Supply Chain Analytics Dashboard (Power BI)
 
-🚀 Project Highlights
-In this project, you’ll learn how to:
+🚀 End-to-End Power BI Project focused on Inventory Optimization & Supply Chain Performance
 
-🧹 Data Cleaning & Transformation: Use Power Query to clean and model supply chain datasets.
-📦 Inventory Metrics: Track stock levels, turnover rates, reorder points, and backorders.
-🚚 Supply Chain KPIs: Analyze lead times, delivery performance, and supplier reliability.
-🔢 Advanced DAX Calculations: Build actionable insights for procurement and operations.
-📊 Professional Dashboard Design: Create an executive-level dashboard with interactive visuals.
-🗺️ Real-World Storytelling Techniques: Present supply chain data effectively for business stakeholders.
-🎥 Full Video Tutorial
-📺 Watch the Full Tutorial Here
+📊 Project Overview
 
-🛠 Getting Started
-To work on this project:
+Managing inventory and ensuring a smooth supply chain is critical for any business.
+This project demonstrates how to build a fully interactive Power BI dashboard to analyze stock levels, supplier performance, demand patterns, and logistics efficiency.
 
-Clone or fork this repository.
-Open the .pbix file with Power BI Desktop.
-Download the provided datasets or connect your own inventory and supply chain data.
-Follow the tutorial to build your dashboard step-by-step.
-🎯 Who Should Use This Project?
-📊 Power BI Users & Business Intelligence Professionals
-🏭 Supply Chain Managers & Inventory Analysts
-⚙️ Operations Managers optimizing logistics performance
-🎓 Students & Job Seekers building a strong Power BI portfolio
+It simulates real-world business scenarios and provides actionable insights for better decision-making.
+
+✨ Key Features
+
+✔️ Data Cleaning & Transformation
+
+Processed raw datasets using Power Query
+Structured data for efficient modeling
+
+✔️ Inventory Analysis
+
+Stock levels tracking
+Inventory turnover calculation
+Reorder point identification
+Backorder monitoring
+
+✔️ Supply Chain KPIs
+
+Lead time analysis
+Supplier performance evaluation
+Delivery efficiency tracking
+
+✔️ Advanced DAX Calculations
+
+Created dynamic measures and KPIs
+Built logic for business insights
+
+✔️ Interactive Dashboard Design
+
+Executive-level layout
+Dynamic filters and drill-downs
+User-friendly visuals
+
+✔️ Business Storytelling
+
+Converted data into meaningful insights
+Designed for stakeholder decision-making
+🛠️ Tools & Technologies
+📊 Power BI
+🔄 Power Query
+🔢 DAX (Data Analysis Expressions)
